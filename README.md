@@ -50,7 +50,7 @@
     <td width="50%" valign="top">
       <h2>Featured Project</h2>
       <p>
-        I'm currently working on <a href="https://love-buggedd.github.io/TuckerIsland/">Tucker Island</a> <b>(TI)</b>! <img src="assets/nyan.gif" width="20px" height="20px"><br>
+        I'm currently working on <a href="https://love-buggedd.github.io/TuckerIsles/">Tucker Isles</a> <b>(TI)</b>! <img src="assets/nyan.gif" width="20px" height="20px"><br>
         A documentation site on all the features of the <b>TI</b> Discord server. It's an invite-only community that supports the parents of Tucker, and him as he grows up.
       </p>
     </td>
